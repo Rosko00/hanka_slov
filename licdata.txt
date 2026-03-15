@@ -1,0 +1,7 @@
+Licenèná zmluva
+Preèítajte si pozorne túto licenènú zmluvu:
+Pokia¾ so zmluvou nesúhlasíte, ukonèite aplikáciu a prestaòte ju pouíva.
+Súhlasíte s licenènou zmluvou (pokia¾ zvolíte NIE, inštalácia bude ukonèená)?
+ÁNO
+NIE
+OK
